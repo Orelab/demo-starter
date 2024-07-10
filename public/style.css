@@ -1,5 +1,4 @@
 
-
 * {
     margin: 0;
     padding: 0;
@@ -7,8 +6,8 @@
 }
 
 #app {
-    border: 3px red solid;
-    padding: 4px;
+    max-width: 400px;
+    margin: auto;
 }
 
 header {

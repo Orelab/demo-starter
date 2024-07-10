@@ -14,15 +14,13 @@ function App() {
             <a href="">menu1</a>
             <a href="">menu2</a>
             <a href="">menu3</a>
+            <a href="">menu3</a>
+
         </nav>
       </Header>
 
-      <Header>
-        <p>coucou</p>
-      </Header>
-
-
       <Blog title="un premier titre" />
+
       <Blog title="un second titre" />
 
       <Footer/>
