@@ -11,11 +11,9 @@ function App() {
 
       <Header>
         <nav>
-            <a href="">menu1</a>
-            <a href="">menu2</a>
-            <a href="">menu3</a>
-            <a href="">menu3</a>
-
+            <a href="https://simplon.co/">menu1</a>
+            <a href="https://simplon.co/">menu2</a>
+            <a href="https://simplon.co/">menu3</a>
         </nav>
       </Header>
 
